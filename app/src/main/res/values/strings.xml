@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidCustomView</string>
+
+    <string-array name="labels">
+        <item> 1</item>
+        <item> 7</item>
+        <item> 15</item>
+        <item> 30</item>
+    </string-array>
+
+    <string-array name="labels2">
+        <item>step 1</item>
+        <item>step 2</item>
+        <item>step 3</item>
+        <item>step 4</item>
+        <item>step 5</item>
+        <item>step 6</item>
+        <item>step 7</item>
+    </string-array>
+</resources>
